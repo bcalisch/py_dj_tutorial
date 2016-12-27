@@ -50,4 +50,5 @@ project work as a whole (one for a log, one for users, etc.)
     ---------------------models.py-----------------------
     --go to docs.djangoproject.com/en/1.8/ref/models/fields to learn more about
     fields
+    test
 
